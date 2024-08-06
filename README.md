@@ -25,4 +25,5 @@ To run game follow these steps:
 
 ## Screenshots
 
-![Screenshot 2024-08-04 000447](https://github.com/user-attachments/assets/faede08e-2e48-4889-8466-8eadde092b9c)
+![Screenshot 2024-08-04 000447](https://github.com/user-attachments/assets/a6ac5aac-834e-45f8-b677-7132e5eaed05)
+
