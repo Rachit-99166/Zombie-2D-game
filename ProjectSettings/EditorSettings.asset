@@ -10,7 +10,7 @@ EditorSettings:
   m_DefaultBehaviorMode: 1
   m_SpritePackerMode: 4
   m_SpritePackerPaddingPower: 1
-  m_EtcTextureCompressorBehavior: 1
+  m_EtcTextureCompressorBehavior: 1 
   m_EtcTextureFastCompressor: 1
   m_EtcTextureNormalCompressor: 2
   m_EtcTextureBestCompressor: 4
