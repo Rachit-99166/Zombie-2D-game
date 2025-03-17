@@ -11,7 +11,7 @@ public class Player : MonoBehaviour
     public Transform gunpoint;
 
     Animator anim;
-
+ 
     public GameObject[] Bullet;
     public GameObject currentBullet;
 
