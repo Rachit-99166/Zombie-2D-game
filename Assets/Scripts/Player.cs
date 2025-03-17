@@ -12,7 +12,7 @@ public class Player : MonoBehaviour
 
     Animator anim;
  
-    public GameObject[] Bullet;
+    public GameObject[] Bullet; 
     public GameObject currentBullet;
 
     private int laneSelect;
