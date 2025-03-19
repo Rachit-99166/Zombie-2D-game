@@ -31,7 +31,7 @@ public class Zombie : MonoBehaviour
                 death = false;
             }
 
-            canMove = false;//Stop Movement
+            canMove = false;
 
         }
         if (canMove)
