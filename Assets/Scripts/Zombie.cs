@@ -17,7 +17,6 @@ public class Zombie : MonoBehaviour
         col = GetComponent<BoxCollider2D>();
     }
 
-    // Update is called once per frame
     void Update()
     {
 
