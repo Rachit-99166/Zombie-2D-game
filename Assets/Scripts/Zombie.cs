@@ -15,7 +15,7 @@ public class Zombie : MonoBehaviour
     void Start()
     {
         canMove = true;
-        anim = GetComponent<Animator>();
+        anim = GetComponent<Animator>(); 
         col = GetComponent<BoxCollider2D>();
     }
 
