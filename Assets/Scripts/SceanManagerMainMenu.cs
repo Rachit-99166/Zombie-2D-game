@@ -20,7 +20,7 @@
 //     {
 //         Time.timeScale = 1;
 
-//     }
+//     } 
 
 //     public void ExitButtonClick()
 //     {
