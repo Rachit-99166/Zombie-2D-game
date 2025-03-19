@@ -10,8 +10,6 @@ public class Zombie : MonoBehaviour
     BoxCollider2D col;
 
     public float speed;
-
-    // Use this for initialization
     void Start()
     {
         canMove = true;
