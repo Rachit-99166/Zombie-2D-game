@@ -18,7 +18,6 @@ public class Player : MonoBehaviour
     private int laneSelect;
 
 
-    // Use this for initialization
     void Start()
     {
         transform.position = new Vector2(locationLane2.position.x, locationLane2.position.y);
