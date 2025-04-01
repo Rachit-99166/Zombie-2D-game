@@ -4,7 +4,7 @@
 Made an 2D game project using Unity where the objective is to defend against an oncoming horde of zombies. The game features zombies advancing in three distinct lanes, and the player must strategically kill them before they breach the defense line. The player has access to a variety of bullets, each specifically designed to be more effective against certain types of zombies. This adds an element of strategy, as selecting the appropriate ammunition is crucial for survival. Additionally, players can switch between lanes to position themselves optimally for taking down the zombies, making the gameplay dynamic and engaging.
 
 
-## 🛠 Skills
+## 🛠 Skills 
 
 C# and Assets has been used in this project.
 
